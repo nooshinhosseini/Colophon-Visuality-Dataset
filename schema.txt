@@ -10,9 +10,13 @@ Optional later addition: TEI-annotated colophon files
 
 Core tables
 -----------
-1. manuscripts
+1. manuscripts 
+        manuscripts.csv = information about the codex/work
 2. colophons
+        colophons.csv = identity + location + textual/content information
 3. morphology
+        morphology.csv = visual/codicological configuration of that colophon
+
 
 Relationship
 ------------
