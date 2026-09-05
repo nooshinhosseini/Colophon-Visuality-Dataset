@@ -1,0 +1,27 @@
+Dataset / Corpus Schema
+=======================
+
+Project structure
+-----------------
+Working database: MySQL
+Publication / exchange format: CSV
+Repository: GitHub
+Optional later addition: TEI-annotated colophon files
+
+Core tables
+-----------
+1. manuscripts
+2. colophons
+3. morphology
+
+Relationship
+------------
+One manuscript can contain one or more colophons.
+
+manuscripts.manuscript_id
+        |
+        | 1 : n
+        v
+colophons.manuscript_id
+
+Each colophon will later have its own morphology record.
