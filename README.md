@@ -28,7 +28,7 @@ The corpus is deliberately bounded and should not be treated as representative o
 ## Repository Structure
 
 ```text
-.
+
 ├── README.md
 ├── data/
 │   ├── manuscripts.csv
