@@ -1,6 +1,6 @@
 This repository contains the research data and documentation produced for the project **“Colophons as Structured Visual Data,
-Term Paper for the Course ‘Manuscripts from the Persianate and Islamic World: material and digital approaches’
-”**
+a term Paper for the Course *‘Manuscripts from the Persianate and Islamic World: material and digital approaches’*
+”** at University of Goettingen during the summer semester of 2026.
 
 The project examines the visual organization of colophons in a bounded corpus of digitized manuscripts and explores how structured annotation can support comparison between characteristics that are often described separately in manuscript scholarship. Particular attention is given to relationships among the geometry of writing, framing, graphic treatment, and the organization of page space.
 
